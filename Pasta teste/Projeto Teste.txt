@@ -1,0 +1,3 @@
+Testando as informações que me foram passadas no curso.
+
+Atualizando esse arquivo para poder colocar um novo git commit.
